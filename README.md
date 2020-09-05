@@ -1,4 +1,5 @@
 I'm developing [BashSupport Pro](https://www.bashsupport.com/pro) — a plugin for serious shell script development with JetBrains IDEs.
+[plugin-dev.com] is the website, where I write about IntelliJ plugin development.
 
 <!--
 **jansorg/jansorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
